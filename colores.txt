@@ -1,1 +1,7 @@
-
+azul
+blanco
+celeste
+rojo
+verde
+violeta
+anaranjado
